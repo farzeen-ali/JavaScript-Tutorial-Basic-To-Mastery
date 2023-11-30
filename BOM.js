@@ -7,7 +7,7 @@ used to interact with browser
 global javaScript object, functions and variables with var keyword automatically become members of the window object
 
 global variables are properties of the window object 
-global functions are methods of the window object 
+global functions are methods of the window object  
 global objects are nested-objects of the window object 
 
 */
