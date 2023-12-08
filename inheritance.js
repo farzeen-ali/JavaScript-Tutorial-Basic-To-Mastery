@@ -9,7 +9,6 @@ Inheritance is a useful feature that allows code reusability.
 To use class inheritance, you use the extends keyword.
 
 */
-
 // parent / base / super class
 class Person{
     constructor(name){
@@ -17,25 +16,24 @@ class Person{
     }
 
     greet(){
-        console.log(`hello I'm ${this.name}`);
+        console.log(`Hello I'm ${this.name}`);
     }
 }
 
-//inherit 
 // child / derived / sub class
 class Student extends Person{
-   sayPresent(){
-    console.log("Present Sir");
-   }
-} 
+    sayPresent(){
+        console.log("Present Sir");
+    }
+}
 
 class Employee extends Person{
-   
-} 
+
+}
 
 let student1 = new Student("Farzeen");
 student1.greet();
 student1.sayPresent();
 
-let employee1 = new Student("Ali");
+let employee1 = new Employee("Ali");
 employee1.greet();
