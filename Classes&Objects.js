@@ -8,7 +8,7 @@ class Form{
     fillInfo(givenName, id){
         this.name = givenName;
         this.id = id;
-    }
+    } 
 
 }
 
