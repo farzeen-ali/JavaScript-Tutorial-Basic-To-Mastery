@@ -1,0 +1,26 @@
+{
+    "name" : "Farzeen",
+    "age" : 22,
+    "is_employee" : true,
+    "passport" : null,
+    "language" : ["JavaScript","C++","Java","Python"],
+    "contact" : {
+        "phone_number" : 12345678,
+        "email" : "farzeen@gmail.com"
+    },
+    
+    "students" : [
+        {
+            "name" : "Farzeen",
+            "class" : "Nine"
+        },
+        {
+            "name" : "Huzaifa",
+            "class" : "One"
+        },
+        {
+            "name" : "Ali",
+            "class" : "Eight"
+        }
+    ]
+}
