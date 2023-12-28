@@ -8,7 +8,7 @@
 *) 5 steps :-
     0 Step --> request not initialized
     1 Step --> server connection established
-    2 Step --> sent request
+    2 Step --> sent request 
     3 Step --> processing request
     4 Step --> request finished and response is ready
 
