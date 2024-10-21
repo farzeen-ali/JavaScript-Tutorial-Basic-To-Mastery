@@ -3,7 +3,6 @@ Break: the control exits from the loop
 Continue: skip particular iteration of the loop but control remain within the loop
 Nested Loop: a loop presented inside the another loop
 */
-
 // for(let i = 0; i<=10; i++)
 // {
 //     if(i==5)
